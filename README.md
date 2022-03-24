@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### :sunglasses: Hey! Nice to see you.
+I'm Giannis and i ❤️ code
+- 🔭 I’m currently working as a Research Engineer for Athens University of Economics and Business
+- 🌱 My main areas of research are Mobile Ad-Hoc Networks (MANET), Time-division multiple access (TDMA), Routing algorithms, Routing protocols
+- 🔥 I have a great passion for Machine Learning and Data Science
+- 
 <!--
 **giannisfourfouris/giannisfourfouris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

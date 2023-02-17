@@ -1,7 +1,5 @@
 ### 😎 Hey! I'm Giannis Fourfouris.
 
-- 🔭 I’m currently working as a Research Engineer for Athens University of Economics and Business
-- 🌱 My main areas of research are Mobile Ad-Hoc Networks (MANET), Time-division multiple access (TDMA), Routing algorithms, Routing protocols
 - 🔥 I love solving problems and create solutions
 - 💻 I enjoy writing code and learn anything about it
 <!--

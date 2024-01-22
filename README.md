@@ -1,6 +1,6 @@
 ### 😎 Hey! I'm Giannis Fourfouris.
 
-- 🔭 I’m currently working as a Data Analytics Engineer at Performance Technologies S.A. & as Research Engineer at Athens University of Economics and Business
+- 🔭 I’m currently working as a Data Analytics Engineer at Performance Technologies.
 - 🔥 I love solving problems and create solutions
 - 💻 I enjoy writing code and learn anything about it
 <!--

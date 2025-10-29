@@ -1,8 +1,8 @@
 ### 😎 Hey! I'm Giannis Fourfouris.
 
 - 🔭 I’m currently working as a AI & Data Analytics Engineer at Performance Technologies.
-- 🔥 I love solving problems and create solutions
-- 💻 I enjoy writing code and learn anything about it
+- 🔥 I love solving problems and create solutions.
+- 💻 I enjoy writing code and learn anything about it.
 <!--
 **giannisfourfouris/giannisfourfouris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

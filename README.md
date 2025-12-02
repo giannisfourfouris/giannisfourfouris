@@ -1,6 +1,6 @@
 ### 😎 Hey! I'm Giannis Fourfouris.
 
-- 🔭 I’m currently working as a AI & Data Analytics Engineer at Performance Technologies.
+- 🔭 I’m fascinated by AI and data and love exploring what they can do.
 - 🔥 I love solving problems and create solutions.
 - 💻 I enjoy writing code and learn anything about it.
 <!--
